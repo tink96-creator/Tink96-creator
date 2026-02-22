@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Brittany Durousseau  
 
 🔗 **LinkedIn:**  
-[![LinkedIn](https://www.google.com/imgres?q=linkedin%C2%A0&imgurl=https%3A%2F%2Fwww.socialpilot.co%2Fwp-content%2Fuploads%2F2024%2F02%2FBeating-the-LinkedIn-Algorithm.jpg&imgrefurl=https%3A%2F%2Fwww.socialpilot.co%2Fblog%2Flinkedin-algorithm&docid=W9dFiWGZ8yuN7M&tbnid=kWa0TQveqO-HGM&vet=12ahUKEwjErurX6-ySAxUznGoFHYMgFpgQnPAOegQIdhAB..i&w=1200&h=763&hcb=2&ved=2ahUKEwjErurX6-ySAxUznGoFHYMgFpgQnPAOegQIdhAB)](https://www.linkedin.com/in/brittany-durousseau-ba2aa2241)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/size/120x120/512/174/174857.png)](https://www.linkedin.com/in/brittany-durousseau-ba2aa2241)
 
 ---
 
