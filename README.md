@@ -15,11 +15,7 @@ Defense Security | Threat Detection | SOC Monitoring | Incident Analysis
 
 ## 👋 About Me
 
-I am a cybersecurity professional with a Bachelor’s degree in Cybersecurity and hands-on experience in threat detection, log analysis, and incident response. 
-
-I hold the CompTIA Security+ certification and am currently advancing toward blue team security analytics.
-
-I am passionate about monitoring, analyzing, and responding to security events to protect systems and data. My focus is on building strong detection engineering skills and gaining real-world SOC experience through lab environments and simulated attack exercises.
+I am a cybersecurity professional with a Bachelor’s degree in Cybersecurity and hands-on experience in threat detection, log analysis, and incident response. I hold the CompTIA Security+ certification and am currently advancing toward blue team security analytics. I am passionate about monitoring, analyzing, and responding to security events to protect systems and data. My focus is on building strong detection engineering skills and gaining real-world SOC experience through lab environments and simulated attack exercises.
 
 ---
 
