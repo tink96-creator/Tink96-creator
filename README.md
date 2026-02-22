@@ -2,7 +2,7 @@
 
 🔗 **LinkedIn:**  
 <a href="https://www.linkedin.com/in/brittany-durousseau-ba2aa2241">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"/>
 </a>
 
 ---
