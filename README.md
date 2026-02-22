@@ -68,7 +68,7 @@ Seeking an entry-level position as a **SOC Tier 1 Security Analyst**, where I ca
 
 ### 📚 In Progress
 
-- CompTIA CySA+, Splunk Certified Power Core User
+- CompTIA CySA+, Splunk Certified Cybersecurity Defense Analyst
 
 ---
 
