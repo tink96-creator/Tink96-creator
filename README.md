@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Brittany Durousseau  
 
 🔗 **LinkedIn:**  
-[![LinkedIn](https://cdn-icons-png.flaticon.com/size/120x120/512/174/174857.png)](https://www.linkedin.com/in/brittany-durousseau-ba2aa2241)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/brittany-durousseau-ba2aa2241)
 
 ---
 
