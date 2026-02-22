@@ -66,10 +66,9 @@ Seeking an entry-level position as a **SOC Tier 1 Security Analyst**, where I ca
 
 ## 📜 Certifications
 
-### 🥇 CompTIA Security+
+### CompTIA Security+
 
 [![CompTIA Security+](https://images.credly.com/size/120x120/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/667f24d5-eaa6-4fb9-8d7a-d1c5a3bc002b)
-
 Certification Status: Active
 
 ### 📚 In Progress
