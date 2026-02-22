@@ -1,8 +1,8 @@
-
+<!-- HEADER -->
 <h1 align="center">👩🏽‍💻 Brittany Durousseau</h1>
 
 <p align="center">
-Defensive Security | SOC Monitoring | Threat Detection | Incident Analysis
+Defense Security | Threat Detection | SOC Monitoring | Incident Analysis
 </p>
 
 <p align="center">
@@ -13,140 +13,88 @@ Defensive Security | SOC Monitoring | Threat Detection | Incident Analysis
 
 ---
 
-## 🛡️ Professional Summary
+## 👋 About Me
 
-Cybersecurity professional with a focus on **security operations, log analytics, and threat detection workflows**.
+I am a cybersecurity professional with a Bachelor’s degree in Cybersecurity and hands-on experience in threat detection, log analysis, and incident response. 
 
-I specialize in monitoring security telemetry, investigating suspicious behavior, and supporting incident response activities.
+I hold the CompTIA Security+ certification and am currently advancing toward blue team security analytics.
 
-My technical interest areas include detection engineering fundamentals, SIEM rule development, and adversarial activity analysis.
-
----
-
-## 🎯 Security Career Focus
-
-Primary goal is to contribute as a **Tier 1 SOC Security Analyst**, supporting enterprise security operations through:
-
-- Continuous security event monitoring  
-- Alert triage and prioritization  
-- Initial threat investigation  
-- Log correlation and behavioral detection  
-- Incident reporting and documentation  
-
-Secondary development focus:
-
-- Detection engineering
-- Threat hunting fundamentals
-- Security automation concepts
+I am passionate about monitoring, analyzing, and responding to security events to protect systems and data. My focus is on building strong detection engineering skills and gaining real-world SOC experience through lab environments and simulated attack exercises.
 
 ---
 
-## 🧠 Technical Security Knowledge
+## 🎯 Career Objective
 
-### Threat Detection & Analysis
-- Security telemetry monitoring  
-- IOC identification  
-- Behavioral anomaly detection  
-- Phishing attack analysis  
-- Malware activity observation  
+Seeking an entry-level position as a **SOC Tier 1 Security Analyst**, where I can contribute to:
 
-### Systems & Network Security
-- Windows event security monitoring  
-- Linux authentication logs  
-- Basic packet inspection  
-- Endpoint activity review  
-
-### Incident Response Awareness
-- Attack lifecycle understanding  
-- Containment concept familiarity  
-- Evidence documentation  
+- Security event monitoring  
+- Log correlation and analysis  
+- Threat detection  
+- Incident documentation  
 
 ---
 
-## 🔧 Security Tools Experience
+## 🛠️ Technical Skills
 
-- Splunk SIEM  
-- ELK Stack (Elasticsearch, Logstash, Kibana)  
-- Sysmon Event Monitoring  
-- Wireshark Packet Analysis  
-- Nmap Reconnaissance Scanning  
-- Windows Event Viewer  
-- Kali Linux Security Testing Environment  
+### 🔍 Security Operations
+- Security Information and Event Management (SIEM)
+- Log Analysis & Correlation
+- Threat Detection
+- Incident Response
+- Phishing Analysis
+- Malware Behavior Observation
+
+### 💻 Systems & Network Knowledge
+- Windows Security Monitoring
+- Linux Basics
+- Network Security 
+- Endpoint Event Review
+
+---
+
+## 🔧 Tools & Technologies
+
+- Splunk SIEM
+- ELK Stack
+- Sysmon
+- Wireshark
+- Nmap
+- Kali Linux
+- Windows Event Viewer
 
 ---
 
 ## 📜 Certifications
 
-### ✅ CompTIA Security+
+### 🥇 CompTIA Security+
 
 <a href="https://www.credly.com/badges/667f24d5-eaa6-4fb9-8d7a-d1c5a3bc002b">
-<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce.png" width="120"/>
+<img src="https://images.credly.com/size/120x120/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)" width="120"/>
 </a>
 
----
+✅ Certification Status: Active
 
-### 📚 Certifications In Progress
+### 📚 In Progress
 
-- CompTIA CySA+ (Blue Team Security Analytics)
-
----
-
-## 🔬 Elite Portfolio Projects
-
-### 🔎 Enterprise-Style SIEM Detection Lab
-
-**Purpose:** Simulate real SOC monitoring environment.
-
-Technical Implementation:
-- Built log ingestion pipeline
-- Analyzed Windows Sysmon behavioral telemetry
-- Developed detection logic for:
-
-  - Credential brute-force patterns  
-  - Suspicious PowerShell execution  
-  - Unauthorized process spawning  
-
-Skills Demonstrated:
-- Alert triage thinking  
-- Threat behavior recognition  
-- Security event correlation  
+- CompTIA CySA+
 
 ---
 
-### 🎣 Multi-Stage Phishing → Endpoint Compromise Simulation
+## 💻 Projects
 
-Simulated full attack lifecycle:
+### 🔎 SIEM Detection & Log Analysis Lab
 
-Email Delivery → User Interaction → Payload Execution → Host Behavior
-
-Analysis Techniques:
-
-- Email header inspection  
-- IOC extraction  
-- Malware behavior observation  
-- Log timeline reconstruction  
-
-Security Outcomes:
-
-- Incident classification  
-- Containment concept understanding  
-- Evidence reporting structure  
+- Built a Splunk-based SIEM monitoring environment  
+- Ingested Windows Sysmon logs for behavioral detection  
+- Developed detection rules for brute force and PowerShell misuse  
+- Conducted threat investigation using timeline analysis  
+- Documented security findings
 
 ---
 
-## 📊 Professional Development Interests
+### 🎣 Phishing-to-Malware Incident Response Simulation
 
-- Detection Engineering Fundamentals  
-- SOC Automation Concepts  
-- Threat Intelligence Integration  
-- Security Monitoring Optimization  
-
----
-
-## ⭐ Portfolio Philosophy
-
-Security is not only about tools — it is about **understanding attacker behavior and building detection thinking**.
-
----
-
-Thank you for visiting my portfolio.
+- Simulated phishing attack lifecycle from email delivery to endpoint compromise  
+- Analyzed email headers and suspicious indicators  
+- Performed log review and basic malware activity observation  
+- Created incident response documentation
