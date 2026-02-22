@@ -59,7 +59,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ## 💻 Projects  
 
-### 🔎 SIEM Detection & Log Analysis Lab  
+### 🔎 #1 SIEM Detection & Log Analysis Lab  
 
 - Built a Splunk-based SIEM lab to ingest and analyze Windows/Sysmon logs  
 - Created custom detection rules for brute-force and PowerShell-based attacks  
@@ -69,7 +69,7 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 
 ---
 
-### 🎣 Phishing-to-Malware Incident Response  
+### 🎣 #2 Phishing-to-Malware Incident Response  
 
 - Simulated phishing attack lifecycle from email delivery to endpoint compromise  
 - Analyzed email headers and indicators of compromise (IOCs)  
