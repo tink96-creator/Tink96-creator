@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👩🏽‍💻 Brittany Durousseau  
 
-<!--
-**tink96-creator/Tink96-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 **LinkedIn:**  
+[www.linkedin.com/in/brittany-durousseau-ba2aa2241](https://www.linkedin.com/in/brittany-durousseau-ba2aa2241)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me  
+
+I am a cybersecurity professional with a Bachelor’s degree in Cybersecurity and hands-on experience in threat detection, log analysis, and incident response. I hold the CompTIA Security+ certification and am currently advancing my expertise in defensive security operations.
+
+I am passionate about monitoring, analyzing, and responding to security events to protect systems and data. My focus is on building strong detection engineering skills and gaining real-world SOC experience through lab environments and simulated attack exercises.
+
+---
+
+## 🎯 Career Objective  
+
+To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I can apply my skills in log analysis, SIEM monitoring, and incident documentation to detect, investigate, and respond to security threats while continuing to grow in blue team operations.
+
+---
+
+## 🛠️ Skills  
+
+- Security Information and Event Management (SIEM)  
+- Log Analysis & Correlation  
+- Incident Response & Documentation  
+- Threat Detection & Monitoring  
+- Vulnerability Assessment  
+- Windows & Linux Administration  
+- Network Security Fundamentals  
+- Phishing Analysis  
+- Malware Investigation Basics  
+
+---
+
+## 🔧 Tools  
+
+- Splunk  
+- ELK Stack  
+- Sysmon  
+- Wireshark  
+- Nmap  
+- Windows Event Viewer  
+- Kali Linux  
+- Microsoft Windows & Linux OS  
+
+---
+
+## 📜 Certifications  
+
+- **CompTIA Security+**  
+👉 https://www.credly.com/badges/
+
+### 📚 In Progress  
+- CompTIA CySA+
+
+---
+
+## 💻 Projects  
+
+### 🔎 SIEM Detection & Log Analysis Lab  
+
+- Built a Splunk-based SIEM lab to ingest and analyze Windows/Sysmon logs  
+- Created custom detection rules for brute-force and PowerShell-based attacks  
+- Simulated real-world attack scenarios  
+- Investigated events using log correlation and timeline analysis  
+- Documented findings and response actions  
+
+---
+
+### 🎣 Phishing-to-Malware Incident Response  
+
+- Simulated phishing attack lifecycle from email delivery to endpoint compromise  
+- Analyzed email headers and indicators of compromise (IOCs)  
+- Performed log review and malware behavior analysis  
+- Documented the incident response process  
+- Created response and remediation reports  
