@@ -1,78 +1,114 @@
-# 👩🏽‍💻 Brittany Durousseau  
+<!-- HEADER -->
+<h1 align="center">👩🏽‍💻 Brittany Durousseau</h1>
 
-🔗 **LinkedIn:**  
+<p align="center">
+Cybersecurity | Threat Detection | SOC Monitoring | Log Analysis
+</p>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/brittany-durousseau-ba2aa2241">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+</p>
+
+---
+
+## 👋 About Me
+
+I am a cybersecurity professional with a focus on defensive security operations, threat monitoring, and incident analysis.
+
+I hold a certification from CompTIA (Computing Technology Industry Association) in Security+ and am currently advancing toward blue team security analytics.
+
+My goal is to build strong detection engineering and SOC investigation skills through hands-on laboratory environments and real-world security analysis.
+
+---
+
+## 🎯 Career Objective
+
+Seeking an entry-level position as a **SOC Tier 1 Security Analyst**, where I can contribute to:
+
+- Security event monitoring  
+- Log correlation and analysis  
+- Threat detection  
+- Incident documentation  
+- Basic malware and phishing investigation  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔍 Security Operations
+- Security Information and Event Management (SIEM)
+- Log Analysis
+- Threat Detection
+- Incident Response Fundamentals
+- Phishing Analysis
+- Malware Behavior Observation
+
+### 💻 Systems Knowledge
+- Windows Security Monitoring
+- Linux Basics
+- Network Security Fundamentals
+- Endpoint Event Review
+
+---
+
+## 🔧 Tools & Technologies
+
+- Splunk SIEM
+- ELK Stack
+- Sysmon
+- Wireshark
+- Nmap
+- Kali Linux
+- Windows Event Viewer
+
+---
+
+## 📜 Certifications
+
+### 🥇 CompTIA Security+
+
+<a href="https://www.credly.com/badges/667f24d5-eaa6-4fb9-8d7a-d1c5a3bc002b">
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce.png" width="120"/>
 </a>
 
----
+✅ Certification Status: Active
 
-## 👋 About Me  
+### 📚 In Progress
 
-I am a cybersecurity professional with a Bachelor’s degree in Cybersecurity and hands-on experience in threat detection, log analysis, and incident response. I hold the CompTIA Security+ certification and am currently advancing my expertise in defensive security operations. I am passionate about monitoring, analyzing, and responding to security events to protect systems and data. My focus is on building strong detection engineering skills and gaining real-world SOC experience through lab environments and simulated attack exercises.
-
----
-
-## 🎯 Career Objective  
-
-To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I can apply my skills in log analysis, SIEM monitoring, and incident documentation to detect, investigate, and respond to security threats while continuing to grow in blue team operations.
+- CompTIA CySA+, Splunk Certifed Power Core
 
 ---
 
-## 🛠️ Skills  
+## 💻 Projects
 
-- Security Information and Event Management (SIEM)  
-- Log Analysis & Correlation  
-- Incident Response & Documentation  
-- Threat Detection & Monitoring  
-- Vulnerability Assessment  
-- Windows & Linux Administration  
-- Network Security Fundamentals  
-- Phishing Analysis  
-- Malware Investigation Basics  
+### 🔎 SIEM Detection & Log Analysis Lab
+
+- Built a Splunk-based SIEM monitoring environment  
+- Ingested Windows Sysmon logs for behavioral detection  
+- Developed detection rules for brute force and PowerShell misuse  
+- Conducted threat investigation using timeline analysis  
+- Documented security findings
 
 ---
 
-## 🔧 Tools  
-
-- Splunk  
-- ELK Stack  
-- Sysmon  
-- Wireshark  
-- Nmap  
-- Windows Event Viewer  
-- Kali Linux  
-- Microsoft Windows & Linux OS  
-
----
-
-## 📜 Certifications  
-
-- **CompTIA Security+**  
-👉 [![CompTIA Security+ Badge](https://images.credly.com/size/120x120/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/667f24d5-eaa6-4fb9-8d7a-d1c5a3bc002b)
-
-### 📚 In Progress  
-- CompTIA CySA+, Splunk Certified Power User 
-
----
-
-## 💻 Projects  
-
-### 🔎 #1 SIEM Detection & Log Analysis Lab  
-
-- Built a Splunk-based SIEM lab to ingest and analyze Windows/Sysmon logs  
-- Created custom detection rules for brute-force and PowerShell-based attacks  
-- Simulated real-world attack scenarios  
-- Investigated events using log correlation and timeline analysis  
-- Documented findings and response actions  
-
----
-
-### 🎣 #2 Phishing-to-Malware Incident Response  
+### 🎣 Phishing-to-Malware Incident Response Simulation
 
 - Simulated phishing attack lifecycle from email delivery to endpoint compromise  
-- Analyzed email headers and indicators of compromise (IOCs)  
-- Performed log review and malware behavior analysis  
-- Documented the incident response process  
-- Created response and remediation reports  
+- Analyzed email headers and suspicious indicators  
+- Performed log review and basic malware activity observation  
+- Created incident response documentation
+
+---
+
+## 📊 Professional Interests
+
+- Blue Team Security Operations  
+- Threat Hunting Fundamentals  
+- Detection Engineering  
+- Security Monitoring Automation
+
+---
+
+⭐ Thank you for visiting my portfolio!
