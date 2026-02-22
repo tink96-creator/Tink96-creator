@@ -49,10 +49,10 @@ To join a Security Operations Center (SOC) as a Tier 1 Security Analyst, where I
 ## 📜 Certifications  
 
 - **CompTIA Security+**  
-👉 https://www.credly.com/badges/
+👉 [![CompTIA Security+ Badge](blob)](https://www.credly.com/badges/667f24d5-eaa6-4fb9-8d7a-d1c5a3bc002b)
 
 ### 📚 In Progress  
-- CompTIA CySA+
+- CompTIA CySA+, Splunk Certified Power User, 
 
 ---
 
