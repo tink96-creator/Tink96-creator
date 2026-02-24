@@ -2,7 +2,7 @@
 <h1 align="center">👩🏽‍💻 Brittany Durousseau</h1>
 
 <p align="center">
-Defense Security | Threat Detection | SOC Monitoring | Incident Analysis
+Defense Security | Threat Detection | SOC Monitoring | Incident Response
 </p>
 
 <p align="center">
